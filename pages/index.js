@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>❤️❤️❤️</title>
+        <title>muaHAHAHAHHAHAHAHAHAH!!!</title>
         <meta
           name="description"
           content="The Comet React SDK lets you launch new Solana NFT collections in your app!"
@@ -129,7 +129,7 @@ export default function Home() {
                           </div> */}
 
                           <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
-                            This Solana NFT is a symbol of our love's connection, forever growing like a beautiful mushroom.
+                            This Solana NFT is a symbol of our love's connection, forever growing like a beautiful mushroom:
                           </h2>
 
                           <div className="-m-3 flex items-start rounded-lg p-3 transition duration-150 ease-in-out hover:bg-gray-50">
