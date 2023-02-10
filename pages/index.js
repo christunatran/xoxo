@@ -146,7 +146,7 @@ export default function Home() {
                               <p className="mt-1 text-sm text-gray-500 mb-2">
                                 CLICK HERE!!!!!
                               </p>
-                              <MintButton collectionId="22c6ecefe246" />
+                              <MintButton collectionId="774ad6d93387" /> 
                             </div>
                           </div>
                         </div>
