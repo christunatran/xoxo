@@ -65,7 +65,7 @@ export default function Home() {
               <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl">
                   <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                    Happy Valentines Day!!!!
+                    this is an umaru worship shrine
                   </h1>
 
                   <div className="marquee">
