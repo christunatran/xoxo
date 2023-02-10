@@ -70,19 +70,19 @@ export default function Home() {
 
                   <div className="marquee">
                     <div className="marquee__group">
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
                     </div>
 
                     <div aria-hidden="true" class="marquee__group">
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
-                      <img src="../kirby.jpg" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
+                      <img src="../umaru.png" width="100px" />
                     </div>
                   </div>
 
