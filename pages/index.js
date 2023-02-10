@@ -141,10 +141,10 @@ export default function Home() {
                             </div>
                             <div className="ml-4">
                               <p className="text-base font-medium text-gray-900">
-                                Take his love.
+                                FREE SHROOMS!!!!!
                               </p>
                               <p className="mt-1 text-sm text-gray-500 mb-2">
-                                please...
+                                CLICK HERE!!!!!
                               </p>
                               <MintButton collectionId="22c6ecefe246" />
                             </div>
