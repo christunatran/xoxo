@@ -91,7 +91,20 @@ export default function Home() {
                       <div className="bg-white rounded-md shadow-2xl ring-1 ring-gray-900/10">
                         <div className="relative grid gap-6 bg-white px-5 py-6 sm:gap-6 sm:p-6 rounded-md">
                           <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
-                            Here's a token of my love and affection,
+                          Oh mushrooms, symbols of love and bliss,
+                          Their gentle scent, a sweet lover's kiss.
+
+                          Imagine yourself in a forest on a hill,
+                          Where mushrooms grow, strong and still.
+
+                          Embrace their love, let your heart dance,
+                          In a world where love has a chance.
+
+                          Let the magic of mushrooms put a smile on your face,
+                          For they remind us of love's sweet embrace.
+
+                          On this Valentine's Day, let their love be well,
+                          A symbol of all that love can bring, so true and real.
                           </h2>
                           {/* <div className="-m-3 flex items-start rounded-lg p-3 transition duration-150 ease-in-out hover:bg-gray-50">
                             <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-md bg-slate-600 text-white sm:h-12 sm:w-12">
