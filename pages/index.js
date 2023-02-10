@@ -93,16 +93,20 @@ export default function Home() {
                           <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
                           Oh mushrooms, symbols of love and bliss,
                           Their gentle scent, a sweet lover's kiss.
-
+                          </h2>
+                          <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
                           Imagine yourself in a forest on a hill,
                           Where mushrooms grow, strong and still.
-
+                          </h2>
+                          <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
                           Embrace their love, let your heart dance,
                           In a world where love has a chance.
-
+                          </h2>
+                          <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
                           Let the magic of mushrooms put a smile on your face,
                           For they remind us of love's sweet embrace.
-
+                          </h2>
+                          <h2 className="text-xl font-bold tracking-tight text-gray-800 sm:text-2xl">
                           On this Valentine's Day, let their love be well,
                           A symbol of all that love can bring, so true and real.
                           </h2>
