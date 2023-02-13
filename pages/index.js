@@ -65,7 +65,7 @@ export default function Home() {
               <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl">
                   <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-                    you are being put into a trance... by @realtunapee on twitter...
+                    you are being put into a trance...
                   </h1>
 
                   <div className="marquee">
