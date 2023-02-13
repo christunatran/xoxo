@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>muaHAHAHAHHAHAHAHAHAH!!!</title>
+        <title>valentines day card 4 u ❤ </title>
         <meta
           name="description"
           content="The Comet React SDK lets you launch new Solana NFT collections in your app!"
